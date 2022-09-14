@@ -1,6 +1,10 @@
 # terminalPlot
 Plot a function within the terminal
 
+  This is a project that I started on the first day of a lecture. 
+Since then I have decided to work on it during my free time to add
+functionality and clean up the code.
+
 # How To Run
 
 Download the files and compile for your computer, I use the GNU compiler collection.
