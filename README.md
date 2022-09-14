@@ -17,7 +17,7 @@ To run the compiled file, either open the file with your file explorer, or open 
 
 # How To Use
 
-When the program is run, you are prompted with which type of function to plot.
+When the program is ran, you are prompted with which type of function to plot.
 Choose the appropriate function, then enter the variables when asked.
 The program shoul return the interpreted f(x) and a graph of f(x).
 
